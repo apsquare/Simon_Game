@@ -85,3 +85,7 @@ Focus, breathe, and definitely don't blink when the sequence starts.
 ---
 
 Made with 🎀, JavaScript, and the stubborn belief that _the next run will be the one_.
+
+---
+
+![Screenshot](screenshot.png)
