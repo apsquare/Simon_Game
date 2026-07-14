@@ -13,6 +13,8 @@ Simple to learn. Surprisingly hard to master. Dangerously easy to replay.
 
 ## 🎮 How to play
 
+👉 [Click Here To Enjoy the Game](https://ap-square-simon-game.netlify.app/)
+
 1. Press **Start** and let the music set the mood.
 2. Watch carefully as the board flashes a sequence.
 3. Click or tap the colored pads in the exact same order.
